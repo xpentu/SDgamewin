@@ -12,7 +12,10 @@ this is the first part of a small set of things im making for the steam deck.
 
 ## installation
 
-download and run the installer, or download the repository and run ```setup.ps1``` by right-clicking and selecting run with powershell.
+**[find the latest release](https://github.com/xpentu/sdgamewin/releases/latest)**. you have two choices. the result will be the same.
+
+- download and run the latest installer.
+- download the repository and run ```setup.ps1``` by right-clicking and selecting run with powershell.
 
 setup is easy. just answer a few questions and the script will configure itself.
 
